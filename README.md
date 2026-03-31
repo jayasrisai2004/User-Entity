@@ -23,12 +23,12 @@ This project is a simple User Management API built using Spring Boot following a
 ##  Project Structure
 
 
-controller → Handles API requests
-service → Business logic
-repository → Database interaction
-entity → Database model
-dtos → Request & Response objects
-exception → Global error handling
+1. controller → Handles API requests
+2. service → Business logic
+3. repository → Database interaction
+4. entity → Database model
+5. dtos → Request & Response objects
+6. exception → Global error handling
 
 
 
